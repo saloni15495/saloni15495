@@ -5,7 +5,7 @@ To know more about me, please contact me or check my resume, CV, or Portfolio We
 
 <strong><h3>My GitHub Stats </h3></strong>
 <a align="center" href="https://github.com/saloni15495">
-<img width="49%"  align="center" src="https://github-readme-stats.vercel.app/api?username=arnavd2001&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+<img width="49%"  align="center" src="https://github-readme-stats.vercel.app/api?username=saloni15495&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 <a align="center" href="https://github.com/saloni15495">
 <img width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni15495&theme=radical" alt="Git Stats" />
